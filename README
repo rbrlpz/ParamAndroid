@@ -1,1 +1,4 @@
-This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
+<h1>ParamAndroid</h1>
+Es un programa simple de android que permite enviar parametros de una actividad a otra utilizando la clase Bundle y
+mostrando el uso de los Intents para mostrar el parametro enviado de la actividad principal en un TextView ubicado en la
+actividad secundaria.
