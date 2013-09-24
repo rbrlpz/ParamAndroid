@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e9722b5-1630-482e-866b-9ac1083fa9e2" name="Lista" comment="Lista">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <file path="/Dummy.txt" changelist="0e9722b5-1630-482e-866b-9ac1083fa9e2" time="1379980879524" ignored="false" />
@@ -98,10 +98,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="21" selection-start="280" selection-end="280" vertical-scroll-proportion="0.077319585">
+            <state line="5" column="87" selection-start="500" selection-end="500" vertical-scroll-proportion="0.13181019">
               <folding />
             </state>
           </provider>
@@ -143,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/com/example/ParamAndroid/NuevaVentana.java" />
         <option value="$PROJECT_DIR$/src/com/example/ParamAndroid/MyActivity.java" />
         <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -810,9 +811,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="21" selection-start="280" selection-end="280" vertical-scroll-proportion="0.077319585">
+        <state line="5" column="87" selection-start="500" selection-end="500" vertical-scroll-proportion="0.13181019">
           <folding />
         </state>
       </provider>
